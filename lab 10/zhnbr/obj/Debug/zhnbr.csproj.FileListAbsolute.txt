@@ -1,0 +1,7 @@
+C:\Users\Андрей\Desktop\zhnbr\bin\Debug\zhnbr.exe.config
+C:\Users\Андрей\Desktop\zhnbr\bin\Debug\zhnbr.exe
+C:\Users\Андрей\Desktop\zhnbr\bin\Debug\zhnbr.pdb
+C:\Users\Андрей\Desktop\zhnbr\obj\Debug\zhnbr.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\zhnbr\obj\Debug\zhnbr.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\zhnbr\obj\Debug\zhnbr.exe
+C:\Users\Андрей\Desktop\zhnbr\obj\Debug\zhnbr.pdb
